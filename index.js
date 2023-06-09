@@ -25,7 +25,7 @@ const DEFAULT_AVATAR =
 // GUEST
 const pool = new Pool({
   connectionString:
-    "postgres://Leanhdung2881999:CkXPLgAV6Zj0@calm-truth-683750.cloud.neon.tech/main?options=project%3Dcalm-truth-683750&sslmode=require",
+    "postgres://perfectbudget.app:VmD6FAZ2bSUL@ep-lingering-tree-699653.us-west-2.aws.neon.tech/neondb?options=project%3Dep-lingering-tree-699653&sslmode=require",
   ssl: {
     rejectUnauthorized: false,
   },
